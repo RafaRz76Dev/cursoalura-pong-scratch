@@ -14,13 +14,12 @@
 
 <div align="left">
   
-- O projeto ```jogo do Pong``` foi desenvolvido com o [curso da Alura](https://cursos.alura.com.br/dashboard) buscando sempre buscando ampliar meus conhecimentos e com a principal linguagem de programação => ```Scratch```.  
+- O projeto ```jogo do Pong``` foi desenvolvido com o [curso da Alura](https://cursos.alura.com.br/dashboard) buscando sempre ampliar meus conhecimentos e com a principal linguagem de programação => ```Scratch```.  
 - Implementou-se a colisão da bolinha com as bordas, ```minha raquete``` e ```raquete do oponente```.
 - Movimentos da Raquete de forma ```individual```, para acertar a ```bolinha``` na maioria das vezes.
 - Criou-se o ```placar do jogo```, indicando os ```meus pontos``` e do ```oponente``` e quando chegar a ```10 termina com ambientação do som de um apito```, indicando o ```vencedor```.
-- Adicionados ```sons```
-- Editada a página do jogo no ```Scratch```, para  ```usuários``` interagirem e assim jogar.
-- Projeto incrível e de alta performance.
+- Adicionados ```sons``` e também editada a página do jogo no ```Scratch```, para  ```usuários``` interagirem e assim jogar, neste projeto incrível e de alta performance.
+  
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
 ## [Clique aqui para acessar o Pong](https://scratch.mit.edu/projects/877702952)
 
